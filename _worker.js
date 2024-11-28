@@ -1,5 +1,5 @@
 const config = {
-  WebToken: 'sub',//此处修改登录密码token
+  WebToken: 'JDi49ds10a10441-a4fc-4baa-a19e-cbcf7061eaf5',//此处修改登录密码token
   FileName: 'Colab',MainData: '',urls: [],subconverter: "SUBAPI.fxxk.dedyn.io",subconfig: "https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/config/ACL4SSR_Online_MultiCountry.ini", subProtocol: 'https',
 };
 export default {
